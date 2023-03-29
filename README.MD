@@ -9,4 +9,4 @@ Repositorio para os projetos da segunda imersão Alura
 
 ## Aula 01 - Consumindo API
 
-![Imagem do terminal mostrando os TOP 10 filmes formatados](../imgs/terminal-aula01.png)
+![Imagem do terminal mostrando os TOP 10 filmes formatados](../Aula01/imgs/terminal-aula01.png)
